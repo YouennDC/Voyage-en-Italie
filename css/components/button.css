@@ -1,0 +1,15 @@
+.btn-blue {
+  background-color: rgba(0, 153, 153, 0.7);
+  color: white;
+  padding: 15px 20px;
+  border-radius: 6px;
+  font-family: "Anek Tamil", sans-serif;
+  font-weight: bold;
+}
+
+.btn-blue:hover {
+  transform: scale(1.1);
+  background-color: rgba(114, 220, 236, 0.7);
+  color: rgba(19, 93, 102, 0.7);
+  transition-delay: 0.05s;
+}

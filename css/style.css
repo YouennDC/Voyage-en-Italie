@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Anek+Tamil:wght@100..800&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap");
+
+@import url("components/container.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/blue-rectangle.css");
+@import url("components/card.css");
+
+body {
+  font-family: "libre baskerville", serif;
+  font-size: 18px;
+  margin: 0px;
+}
+
+h1, h2, h3, h4 {
+   font-family: "Anek Tamil", sans-serif;
+   font-weight: bolder;
+}
+
+a {
+  text-decoration: none;
+}
